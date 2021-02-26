@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm d40n3</h1>
 <h3 align="center">A normal guy from Viet Nam xD</h3>
 
-<p align="left"> <a href="https://twitter.com/domiee13" target="blank"><img src="https://img.shields.io/twitter/follow/domiee13?logo=twitter&style=for-the-badge" alt="domiee13" /></a> </p>
-
 - 📫 How to reach me **dungntt1309@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
