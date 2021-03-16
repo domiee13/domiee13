@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm d40n3</h1>
-<h3 align="center">A normal guy from Viet Nam xD</h3>
+<h3 align="center"xD</h3>
 
 - 📫 How to reach me **dungntt1309@gmail.com**
 
